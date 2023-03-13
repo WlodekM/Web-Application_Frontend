@@ -92,6 +92,9 @@ import "./blocks/mongodb/";
 // orang
 import "./blocks/LaserCat/switch";
 
+// fir
+import "./blocks/fir/"
+
 import "./blocks/jsonrequest";
 import "./blocks/database/";
 import "./blocks/text/";
